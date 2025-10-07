@@ -108,9 +108,13 @@ input[type="submit"]:hover {
 ```
 
 ## SERVER SIDE PROCESSING:
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 194453" src="https://github.com/user-attachments/assets/63f5ed8b-e3fe-4719-91cf-b8bf137e9110" />
+
 
 
 ## HOMEPAGE:
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 193759" src="https://github.com/user-attachments/assets/96af0869-2783-4482-9731-98dfeab4b377" />
+
 
 
 ## RESULT:
